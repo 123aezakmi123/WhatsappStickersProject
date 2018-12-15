@@ -1,0 +1,450 @@
+{
+	"android_play_store_link": "https://play.google.com/store/apps/details?id=com.null",
+	"ios_app_store_link": "https://itunes.apple.com/it/app",
+	"sticker_packs":
+	[
+		{
+			"identifier": "1",
+			"name": "MemasterPack pt1",
+			"publisher": "Ajeje Brazorf",
+			"tray_image_file": "tray_Hide_the_pain_Harold_sad.png",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers":
+			[
+				{
+					"image_file": "Hide_the_pain_Harold_sad.webp",
+					"emojis": ["😰"]
+				},
+				{
+					"image_file": "Addios.webp",
+					"emojis": ["🤚","🛫"]
+				},
+				{
+					"image_file": "Mazzarri_orologio.webp",
+					"emojis": ["⌚️"]
+				},
+				{
+					"image_file": "Buffon.webp",
+					"emojis": ["😕"]
+				},
+				{
+					"image_file": "A_facc_ro_cazz.webp",
+					"emojis": ["😮"]
+				},
+				{
+					"image_file": "Hide_the_pain_Harold_3.webp",
+					"emojis": ["😨","👓"]
+				},
+				{
+					"image_file": "Hide_the_pain_Harold.webp",
+					"emojis": ["😟"]
+				},
+				{
+					"image_file": "Hide_the_pain_Harold_2.webp",
+					"emojis": ["💻","😰"]
+				},
+				{
+					"image_file": "Hide_the_pain_Harold_happy.webp",
+					"emojis": ["💻","😀"]
+				},
+				{
+					"image_file": "Psyduck.webp",
+					"emojis": ["😧"]
+				},
+				{
+					"image_file": "Hackerman.webp",
+					"emojis": ["💻"]
+				},
+				{
+					"image_file": "Guacci.webp",
+					"emojis": ["😑"]
+				},
+				{
+					"image_file": "Ranalli.webp",
+					"emojis": ["💻","👍"]
+				},
+				{
+					"image_file": "Peduto.webp",
+					"emojis": ["🙂"]
+				},
+				{
+					"image_file": "Massimiliano_Allegri.webp",
+					"emojis": ["😁"]
+				},
+				{
+					"image_file": "Messi.webp",
+					"emojis": ["😠"]
+				},
+				{
+					"image_file": "Purtroppo_sei_mongoloide.webp",
+					"emojis": ["🐱"]
+				},
+				{
+					"image_file": "The_expert.webp",
+					"emojis": ["🚶"]
+				},
+				{
+					"image_file": "Ah.webp",
+					"emojis": ["😥"]
+				},
+				{
+					"image_file": "CiccioGamer89.webp",
+					"emojis": ["🍰"]
+				},
+				{
+					"image_file": "Gerry_nonono.webp",
+					"emojis": ["🤥"]
+				},
+				{
+					"image_file": "Gerry_aaaah.webp",
+					"emojis": ["😱"]
+				},
+				{
+					"image_file": "Maurizio_Sarri.webp",
+					"emojis": ["😱"]
+				},
+				{
+					"image_file": "Pinguino_madagascar.webp",
+					"emojis": ["😀"]
+				},
+				{
+					"image_file": "Super_brain.webp",
+					"emojis": ["💡"]
+				},
+				{
+					"image_file": "Pathetic.webp",
+					"emojis": ["👎"]
+				},
+				{
+					"image_file": "Grosso.webp",
+					"emojis": ["⚽"]
+				},
+				{
+					"image_file": "Higuain.webp",
+					"emojis": ["👂"]
+				},
+				{
+					"image_file": "John_Cena.webp",
+					"emojis": ["👉"]
+				},
+				{
+					"image_file": "Elmo_nuclear.webp",
+					"emojis": ["☢️"]
+				}
+			]
+		},
+		{
+			"identifier": "2",
+			"name": "MemasterPack pt2",
+			"publisher": "Ajeje Brazorf",
+			"tray_image_file": "tray_Non_puoi_se.png",
+			"stickers":
+			[
+				{
+					"image_file": "Non_puoi_se.webp",
+					"emojis": ["😄"]
+				},
+				{
+					"image_file": "Crying_Jordan.webp",
+					"emojis": ["😭"]
+				},
+				{
+					"image_file": "Bertoli.webp",
+					"emojis": ["👨‍🚀"]
+				},
+				{
+					"image_file": "De_Rita.webp",
+					"emojis": ["👁"]
+				},
+				{
+					"image_file": "Giovanni.webp",
+					"emojis": ["😉"]
+				},
+				{
+					"image_file": "Giovanni_2.webp",
+					"emojis": ["👋"]
+				},
+				{
+					"image_file": "Troppi_ricordi.webp",
+					"emojis": ["😭"]
+				},
+				{
+					"image_file": "Ci_stiamo_cacando_sotto.webp",
+					"emojis": ["👮","😂"]
+				},
+				{
+					"image_file": "What.webp",
+					"emojis": ["⁉️"]
+				},
+				{
+					"image_file": "Ma_che_cazz.webp",
+					"emojis": ["😱"]
+				},
+				{
+					"image_file": "Ma_come.webp",
+					"emojis": ["😨"]
+				},
+				{
+					"image_file": "Bugs_Bunny_what.webp",
+					"emojis": ["🐰","😧"]
+				},
+				{
+					"image_file": "Ok.webp",
+					"emojis": ["👍"]
+				},
+				{
+					"image_file": "Non_lo_so_Rick.webp",
+					"emojis": ["⚠️"]
+				},
+				{
+					"image_file": "Pupazzo.webp",
+					"emojis": ["👀"]
+				},
+				{
+					"image_file": "Kermit_the_frog.webp",
+					"emojis": ["🐸"]
+				},
+				{
+					"image_file": "Mr_Krabs.webp",
+					"emojis": ["🦀"]
+				},
+				{
+					"image_file": "Spiderman.webp",
+					"emojis": ["🏆"]
+				},
+				{
+					"image_file": "Spiderman_2.webp",
+					"emojis": ["👉","👈"]
+				},
+				{
+					"image_file": "Staccah_staccah.webp",
+					"emojis": ["💻","⚠️"]
+				},
+				{
+					"image_file": "Non_l'ho_mai_capita.webp",
+					"emojis": ["🚗"]
+				},
+				{
+					"image_file": "Goku.webp",
+					"emojis": ["🖐"]
+				},
+				{
+					"image_file": "Violinista.webp",
+					"emojis": ["🎻"]
+				},
+				{
+					"image_file": "Mr.Robot.webp",
+					"emojis": ["🙌"]
+				},
+				{
+					"image_file": "Fiero.webp",
+					"emojis": ["😈"]
+				},
+				{
+					"image_file": "Ezio_Greggio.webp",
+					"emojis": ["😃"]
+				},
+				{
+					"image_file": "Bugs_Bunny.webp",
+					"emojis": ["😎"]
+				},
+				{
+					"image_file": "Narcos.webp",
+					"emojis": ["⏳","🕙"]
+				},
+				{
+					"image_file": "Vivono_più_a_lungo.webp",
+					"emojis": ["😯"]
+				},
+				{
+					"image_file": "SpongeBoab.webp",
+					"emojis": ["💀"]
+				}
+			]
+		},
+		{
+			"identifier": "3",
+			"name": "MemasterPack pt3",
+			"publisher": "Ajeje Brazorf",
+			"tray_image_file": "tray_Cancer.png",
+			"stickers":
+			[
+				{
+					"image_file": "Cancer.webp",
+					"emojis": ["😵"]
+				},
+				{
+					"image_file": "Processing.webp",
+					"emojis": ["💭"]
+				},
+				{
+					"image_file": "Homer.webp",
+					"emojis": ["📘"]
+				},
+				{
+					"image_file": "Businessman.webp",
+					"emojis": ["🤑"]
+				},
+				{
+					"image_file": "Grrr.webp",
+					"emojis": ["😡"]
+				},
+				{
+					"image_file": "Licking_phone.webp",
+					"emojis": ["👅","📱"]
+				},
+				{
+					"image_file": "Ops.webp",
+					"emojis": ["💦"]
+				},
+				{
+					"image_file": "Ma.webp",
+					"emojis": ["☝️"]
+				},
+				{
+					"image_file": "Giuseppe_Marotta.webp",
+					"emojis": ["😶"]
+				},
+				{
+					"image_file": "Ted.webp",
+					"emojis": ["😅"]
+				},
+				{
+					"image_file": "Doraemon.webp",
+					"emojis": ["✋️","👝"]
+				},
+				{
+					"image_file": "Tom.webp",
+					"emojis": ["😾"]
+				},
+				{
+					"image_file": "Feels.webp",
+					"emojis": ["💆‍♂️"]
+				},
+				{
+					"image_file": "Delicatissima.webp",
+					"emojis": ["🥀"]
+				},
+				{
+					"image_file": "Amadeus.webp",
+					"emojis": ["😦"]
+				},
+				{
+					"image_file": "Totti.webp",
+					"emojis": ["😕"]
+				},
+				{
+					"image_file": "Fist.webp",
+					"emojis": ["✊️"]
+				},
+				{
+					"image_file": "Ralph_I'm_in_danger.webp",
+					"emojis": ["⚠️","💬"]
+				},
+				{
+					"image_file": "Zac_Efron.webp",
+					"emojis": ["🤗"]
+				},
+				{
+					"image_file": "Sweating.webp",
+					"emojis": ["😓"]
+				},
+				{
+					"image_file": "Man_of_culture.webp",
+					"emojis": ["😌"]
+				},
+				{
+					"image_file": "Sadness.webp",
+					"emojis": ["😨","🤜"]
+				},
+				{
+					"image_file": "Bugs_grrr_Bunny.webp",
+					"emojis": ["😡","🐰"]
+				},
+				{
+					"image_file": "Bugs_king_Bunny.webp",
+					"emojis": ["👑"]
+				},
+				{
+					"image_file": "Mai_più.webp",
+					"emojis": ["😡","👉"]
+				},
+				{
+					"image_file": "Carlo_Mazzone.webp",
+					"emojis": ["😡"]
+				},
+				{
+					"image_file": "Bastone_bici.webp",
+					"emojis": ["🚲"]
+				},
+				{
+					"image_file": "SpongeBoab_no_vabbè_epico.webp",
+					"emojis": ["👏"]
+				},
+				{
+					"image_file": "Bambino_occhiali.webp",
+					"emojis": ["😎"]
+				},
+				{
+					"image_file": "Triggered.webp",
+					"emojis": ["💥"]
+				}
+			]
+		},
+		{
+			"identifier": "4",
+			"name": "MemasterPack pt4",
+			"publisher": "Ajeje Brazorf",
+			"tray_image_file": "tray_Hard_choice.png",
+			"stickers":
+			[
+				{
+					"image_file": "Hard_choice.webp",
+					"emojis": ["🚨"]
+				},
+				{
+					"image_file": "Typing_fast_hands.webp",
+					"emojis": ["🔤"]
+				},
+				{
+					"image_file": "Messi_e_Bonucci.webp",
+					"emojis": ["☝️"]
+				},
+				{
+					"image_file": "Linkino.webp",
+					"emojis": ["🙏"]
+				},
+				{
+					"image_file": "Sto_cazzo.webp",
+					"emojis": ["👈"]
+				},
+				{
+					"image_file": "Yup.webp",
+					"emojis": ["👍","👴"]
+				},
+				{
+					"image_file": "Back_to_the_kitchen.webp",
+					"emojis": ["🔙","🍳"]
+				},
+				{
+					"image_file": "Kissy_118.webp",
+					"emojis": ["👵"]
+				},
+				{
+					"image_file": "Delete_this.webp",
+					"emojis": ["🔫"]
+				},
+				{
+					"image_file": "Messi_2.webp",
+					"emojis": ["😢"]
+				},
+				{
+					"image_file": "Drake.webp",
+					"emojis": ["🤚"]
+				}
+			]
+		}
+	]
+}
